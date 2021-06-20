@@ -2,7 +2,7 @@
 
 String imagesFolder = "test";   // files named 0.png, 1.png, 2.png, 3...
 String fileExtension = ".png";  // .png, .jpg, .tga or non-animated .gif
-int framesTotal = 4;            // number of frames/files
+int framesTotal = 5;            // number of frames/files
 int LPI = 50;                   // from lenticular sheet specifications
 float printWidth = 4.3;         // desired width of the printed image in inches
 int blurStrength = 0;           // most images look better blured
